@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 
 .logos
 {
@@ -68,3 +70,15 @@ body
     margin-left: 2%;
 }
 
+.f-family-title
+{
+    font-family: "Alegreya SC", cursive;
+    font-size: 50px;
+}
+
+.f-family-text
+{
+    font-family: "Montserrat", cursive;
+    font-size: 15px;
+    font-weight: 500;
+}
