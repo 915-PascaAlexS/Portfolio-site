@@ -8,7 +8,7 @@
 body
 {
     margin-top: 4.5vh;    
-    background-color:ivory;
+    background-color: ivory;
 }
 
 .btn-circle.btn-lg {
@@ -22,10 +22,16 @@ body
     display: block;
 }
 
+.index
+{
+    background-image: url(../bg_pic_edited.jpg);
+}
+
 .portfolio-text
 {
     font-size: 80px;
     font-weight: 600;
+    color: white;
 }
 
 .rotate
