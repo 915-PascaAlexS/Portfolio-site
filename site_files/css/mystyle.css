@@ -58,16 +58,10 @@ body
    transform: translate(-50%, -50%);
 }
 
-
 .center-text-contact
 {
     position:relative;
     left: 15%;
-}
-
-.n-text-margin
-{
-    margin-left: 2%;
 }
 
 .f-family-title
@@ -89,3 +83,6 @@ body
     width: 100%;
     
 }
+
+
+
