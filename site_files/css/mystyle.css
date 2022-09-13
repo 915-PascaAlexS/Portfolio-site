@@ -8,8 +8,7 @@
 }
 
 body
-{
-    margin-top: 3%;    
+{ 
     background-color: ivory;
 }
 
@@ -22,11 +21,6 @@ body
     font-weight: 600;
     text-align:center;
     display: block;
-}
-
-.index
-{
-    background-image: url("/idei_poze/fundal/bg_pic_edited.jpg");
 }
 
 .portfolio-text
